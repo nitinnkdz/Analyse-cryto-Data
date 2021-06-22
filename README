@@ -1,0 +1,3 @@
+# Analyse-cryto-Data
+This project contains SQL Queries and csv files of cryto data. It has all the cryptocurrencies listed on various exchanges. It has also the OHLC data of BTC and ETH from 2013 to 2020. Anyone can use this data to analyse BTC prices as well as ETH prices.
+How BTC prices have affected the ETH pruices
